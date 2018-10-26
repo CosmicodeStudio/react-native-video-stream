@@ -265,6 +265,7 @@
         _session.showDebugInfo = YES;
         _session.preView = self;
         _session.mirror = NO;
+        _session.beautyFace = NO;
 
         //        UIImageView *imageView = [[UIImageView alloc] init];
         //        imageView.alpha = 0.8;
